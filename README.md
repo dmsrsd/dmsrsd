@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi 👋! I'm a Frontend Developer, from earth</h2>
+<h2 align="center">Hi 👋! I'm a Frontend Engineer, from earth</h2>
 
 ###
 
