@@ -13,6 +13,10 @@
 
 <img align="right" height="129" src="https://media1.tenor.com/m/pYxUznOYwGUAAAAd/jokowi-joko-widodo.gif"  />
 
+<img align="right" height="129" src="https://media1.tenor.com/m/YthOQsbbXScAAAAC/meme-jokowi-jokowi-meme.gif" />
+
+
+
 ###
 
 <div align="left">
