@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm a Frontend Engineer from Earth</h2>
+<h2 align="center">Hi 👋! I'm a Frontend Engineer</h2>
 
 <br />
 
@@ -10,11 +10,11 @@
 
 <br />
 
-<div align="right">
+<div align="center">
   <img height="129" src="https://media1.tenor.com/m/pYxUznOYwGUAAAAd/jokowi-joko-widodo.gif" alt="Jokowi 1" />
   <img height="129" src="https://media1.tenor.com/m/YthOQsbbXScAAAAC/meme-jokowi-jokowi-meme.gif" alt="Jokowi 2" />
   <img height="129" src="https://media1.tenor.com/m/ifbTCS5-fHoAAAAd/jokowi-kaget.gif" alt="Jokowi 3" />
-  <img height="129" src="https://media1.tenor.com/m/fI4HlnJ008oAAAAC/jokowi-kaesang.gif" alt="Jokowi 3" />
+  <img height="129" src="https://media1.tenor.com/m/fI4HlnJ008oAAAAC/jokowi-kaesang.gif" alt="Jokowi 4" />
 </div>
 
 <br clear="both" />
