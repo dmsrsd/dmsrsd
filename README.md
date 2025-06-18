@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="129" src="https://tenor.com/ldZZq1AaxiP.gif"  />
+<img align="right" height="129" src="https://tenor.com/ldZZq1AaxiP.gif" alt="Prabowo Wowo GIF" />
 
 ###
 
