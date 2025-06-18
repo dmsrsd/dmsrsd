@@ -15,6 +15,11 @@
 
 <img align="right" height="129" src="https://media1.tenor.com/m/YthOQsbbXScAAAAC/meme-jokowi-jokowi-meme.gif" />
 
+<img align="right" height="129" src="https://media1.tenor.com/m/ifbTCS5-fHoAAAAd/jokowi-kaget.gif" />
+
+
+
+
 
 
 ###
