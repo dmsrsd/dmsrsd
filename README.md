@@ -57,6 +57,5 @@
   </picture>
 </p>
 
-<!--
-[![An image of @jalanindw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jalanindw)](https://holopin.io/@jalanindw)
--->
+
+[![An image of @dmsrsd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dmsrsd)](https://holopin.io/@dmsrsd)
