@@ -1,66 +1,75 @@
-<h2 align="center">Hi 👋! I'm a Frontend Engineer</h2>
-
-<br />
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmsrsd&show_icons=true&bg_color=00000000&theme=transparent" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmsrsd&layout=compact&card_width=320&langs_count=5&theme=transparent" height="150" alt="languages graph" />
-</div> -->
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br />
+<h1 align="center">Hi 👋, I'm a Frontend Engineer</h1>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
 
 <div align="center">
-  <img height="140" width="100" src="https://media1.tenor.com/m/pYxUznOYwGUAAAAd/jokowi-joko-widodo.gif" alt="Jokowi 1" />
-  <img height="140" width="100"src="https://media1.tenor.com/m/YthOQsbbXScAAAAC/meme-jokowi-jokowi-meme.gif" alt="Jokowi 2" />
-  <img height="140" width="100" src="https://media1.tenor.com/m/ifbTCS5-fHoAAAAd/jokowi-kaget.gif" alt="Jokowi 3" />
-  <img height="140" width="100" src="https://media1.tenor.com/m/fI4HlnJ008oAAAAC/jokowi-kaesang.gif" alt="Jokowi 4" />
+  <img src="https://media1.tenor.com/m/pYxUznOYwGUAAAAd/jokowi-joko-widodo.gif" width="120" style="border-radius: 10px;" />
+  <img src="https://media1.tenor.com/m/YthOQsbbXScAAAAC/meme-jokowi-jokowi-meme.gif" width="120" style="border-radius: 10px;" />
+  <img src="https://media1.tenor.com/m/ifbTCS5-fHoAAAAd/jokowi-kaget.gif" width="120" style="border-radius: 10px;" />
+  <img src="https://media1.tenor.com/m/fI4HlnJ008oAAAAC/jokowi-kaesang.gif" width="120" style="border-radius: 10px;" />
 </div>
 
 <br />
 
+## 🚀 About Me
+- 💡 Specialized in building **High-Performance Web Applications**.
+- 🛠️ Currently mastering **React, TypeScript, and Cloud Architectures**.
+- 🎯 Focused on creating seamless user experiences with clean code.
+
 ---
 
-<p align="center">
-  <!-- Tech Stack Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="27" width="27" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="27" width="27" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="27" width="27" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="27" width="27" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="27" width="27" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="27" width="27" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="27" width="27" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="27" width="27" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="27" width="27" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="27" width="27" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="27" width="27" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="27" width="27" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="27" width="27" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="27" width="27" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="27" width="27" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="27" width="27" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="27" width="27" alt="GitLab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="27" width="27" alt="Gradle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="27" width="27" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="27" width="27" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="27" width="27" alt="Redux" />
+## 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-<!-- Snake animation -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dmsrsd&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="dmsrsd's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmsrsd&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmsrsd&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
-<!-- Holopin badge -->
 <p align="center">
   <a href="https://holopin.io/@dmsrsd">
-    <img src="https://holopin.me/dmsrsd" alt="@dmsrsd's Holopin Badges" />
+    <img src="https://holopin.me/dmsrsd" alt="Holopin Badges" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dmsrsd&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
