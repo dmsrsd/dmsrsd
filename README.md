@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmsrsd&layout=compact&card_width=320&langs_count=5&theme=transparent" height="150" alt="languages graph" />
 </div> -->
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <br />
 
 <div align="center">
