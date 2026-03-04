@@ -2,10 +2,10 @@
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dmsrsd&show_icons=true&bg_color=00000000&theme=transparent" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmsrsd&layout=compact&card_width=320&langs_count=5&theme=transparent" height="150" alt="languages graph" />
-</div>
+</div> -->
 
 <br />
 
